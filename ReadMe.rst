@@ -1,6 +1,6 @@
 The physics of balls in JavaScript!
 ============================================
-By Sean
+By Sean Howard
 
 License
 --------------------------------------------
