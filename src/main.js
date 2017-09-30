@@ -17,7 +17,7 @@ function loop() {
         y  = canvas.height - r;
     } else {
         y++;
-    } //yo
+    } 
 }
 
 function main() { //NOTE () needed for function
